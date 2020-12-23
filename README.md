@@ -8,7 +8,7 @@ PROBLEM STATEMENT: In traditional way of rehabilitation the doctor and therapist
 ![](LoginpageSnap.png)
 ![](LoginPageWithDRLoginSnap.png)
 
-2.register.php
+2.register.php : It is the signUp Page
 ![](RegisterPage.png)
 ![](RegisterPageWithOption.png)
 
