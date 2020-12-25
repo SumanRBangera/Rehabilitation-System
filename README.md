@@ -5,7 +5,7 @@ PROBLEM STATEMENT: In traditional way of rehabilitation the doctor and therapist
 
 
 1.login.php : It contains home page and login window. three login window is embedded in single page using collapsible feature of materialize css.
-![](LoginpageSnap.png)
+![]Images/LoginpageSnap.png)
 ![](LoginPageWithDRLoginSnap.png)
 
 2.register.php : It is the signUp Page
